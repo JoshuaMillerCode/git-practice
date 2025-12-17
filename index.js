@@ -1,5 +1,5 @@
 function greet() {
-  return 'Hello, Pablo!';
+  return "Keep the change, you filthy animal! Hello, Pablo!";
 }
 
 module.exports = greet;
